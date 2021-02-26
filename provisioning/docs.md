@@ -3,7 +3,7 @@
 ## ``kubeadm init``
 
 ````bash
-sudo kubeadm init --apiserver-advertise-address 192.168.56.35 --pod-network-cidr=10.244.0.0/16
+sudo kubeadm init --apiserver-advertise-address 192.168.56.135 --pod-network-cidr=10.244.0.0/16
 ````
 
 ### post init

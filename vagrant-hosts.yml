@@ -31,11 +31,11 @@
 ---
 
 - name: master
-  ip: 192.168.56.35
+  ip: 192.168.56.135
   cpus: 2
   memory: 2048
 
 - name: node
-  ip: 192.168.56.36
+  ip: 192.168.56.136
   cpus: 2
   memory: 2048
